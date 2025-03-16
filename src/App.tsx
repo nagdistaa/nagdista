@@ -23,7 +23,7 @@ function App() {
    <Card projectName='radio' projectSrc='https://nagdista-radio.netlify.app/'></Card>
   {/*  */}
   
-   <Card projectName='battery' projectSrc='https://nagdista-battarey.netlify.app/'></Card>
+   <Card projectName='battery' projectSrc='https://nagdista-radio.netlify.app/'></Card>
   {/*  */}
   
    </div>
