@@ -13,17 +13,17 @@ function App() {
     {/* loader  */}
    <Card projectName='landing loader' projectSrc='https://nagdista-loader.netlify.app/'/>
    {/* store */}
-   <Card projectName=' store' projectSrc='nagdista-store.netlify.app'/>
+   <Card projectName=' store' projectSrc='https://nagdista-store.netlify.app/'/>
    {/* dictionary */}
    <Card projectName='dictionary' projectSrc='https://nagdista-dictionary.netlify.app/'/>
    {/* youtube audio */}
 
-   <Card projectName='youtube audio' projectSrc='nagdista-youtube-audio.netlify.app'></Card>
+   <Card projectName='youtube audio' projectSrc='https:// nagdista-youtube-audio.netlify.app'></Card>
   {/*  */}
    <Card projectName='radio' projectSrc='https://nagdista-radio.netlify.app/'></Card>
   {/*  */}
   
-   <Card projectName='battery' projectSrc='https://nagdista-radio.netlify.app/'></Card>
+   <Card projectName='battery' projectSrc='https://nagdista-battarey.netlify.app/'></Card>
   {/*  */}
   
    </div>
