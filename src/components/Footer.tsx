@@ -8,7 +8,7 @@ youTube?:string;
 telegram?:string;
 }
 
-const Footer = ({author , githubLink , twitter , linkedIn , facebook , youTube , telegram}:Iprops)=>{
+const Footer = ({author }:Iprops)=>{
 return(
     <div className=" p-[15px] text-center fixed bottom-0 w-full mt-[20px] bg-white">
     <h2>by | {author}</h2>
