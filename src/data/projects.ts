@@ -9,7 +9,7 @@ export const projectsData = [{
     projectSrc :"https://nagdista-dictionary.netlify.app/"
 },{
     projectName :"youtube audio",
-    projectSrc :"https:// nagdista-youtube-audio.netlify.app"
+    projectSrc :"https://nagdista-youtube-audio.netlify.app"
 },{
     projectName :"radio",
     projectSrc :"https://nagdista-radio.netlify.app/"
@@ -18,5 +18,5 @@ export const projectsData = [{
     projectSrc :"https://nagdista-battarey.netlify.app/"
 },{
     projectName :"beautiful toggle button",
-    projectSrc :"nagdista-menu.netlify.app"
+    projectSrc :"https://nagdista-menu.netlify.app"
 },]
