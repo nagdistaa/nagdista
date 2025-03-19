@@ -14,7 +14,7 @@ function App() {
     
 
 
-    {projectsData.map((el , idx)=>{
+    {projectsData.map((el )=>{
       return(   <Card projectName= {el.projectName} projectSrc= {el.projectSrc}/>)
     })}
   
